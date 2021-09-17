@@ -6,7 +6,7 @@
     "pdfjs-dist": "^2.2.228",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.4.4"
   },
   "devDependencies": {
     "@types/jest": "^24.0.18",
